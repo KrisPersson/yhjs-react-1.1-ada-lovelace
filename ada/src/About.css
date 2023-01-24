@@ -1,0 +1,13 @@
+
+article {
+    max-width: 40rem;
+}
+
+figure {
+    /* text-align: left; */
+    background-color: #eee;
+    padding: 0.1rem;
+    width: fit-content;
+
+}
+
