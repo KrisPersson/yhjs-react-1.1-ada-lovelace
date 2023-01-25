@@ -8,6 +8,6 @@ figure {
     background-color: #eee;
     padding: 0.1rem;
     width: fit-content;
-
+    border-left: 3px solid rgb(213, 212, 212);
 }
 
