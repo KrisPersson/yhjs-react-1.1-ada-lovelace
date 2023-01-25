@@ -11,3 +11,6 @@ figure {
     border-left: 3px solid rgb(213, 212, 212);
 }
 
+h2, p {
+    text-align: left;
+}
